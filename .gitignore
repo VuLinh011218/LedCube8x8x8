@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.DS_Store
+build/
+*.log
+.devcontainer/
+.$System Diagram.drawio.bkp
+temp/
+**/Debug/

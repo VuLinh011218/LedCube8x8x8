@@ -1,0 +1,3 @@
+[submodule "Firmware/Third_Party/min"]
+	path = Firmware/Third_Party/min
+	url = https://github.com/min-protocol/min
